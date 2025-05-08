@@ -1,0 +1,110 @@
+Persona Profile: Rahul Attuluri
+Full Name: Rahul Attuluri
+
+Current Role: Co-Founder & CEO at NxtWave
+
+LinkedIn: linkedin.com/in/rahulattuluri
+
+Location: Hyderabad, Telangana, India
+
+
+🎓 Education
+Degree: B.Tech in Computer Science and Engineering
+
+Institution: International Institute of Information Technology (IIIT), Hyderabad
+
+
+💼 Professional Experience
+NxtWave (Apr 2020 – Present): Co-Founder & CEO
+
+CyberEye Research Labs & Security Solutions Pvt. Ltd. (Mar 2015 – Apr 2020): Co-Founder
+
+iB Hubs (Jun 2014 – Apr 2020): Chief Technology Officer
+
+Amazon: Software Development Engineer
+
+Ivy Comptech: Software Engineer
+
+🏆 Recognitions
+Recognized in Hurun's Under 35 Entrepreneurs list for his contributions to tech education in India.
+
+
+
+🏢 Company Profiles
+1. Website: ccbp.in
+
+Founded: 2020
+
+Founders: Rahul Attuluri (Ex-Amazon, IIIT Hyderabad), Sashank Reddy (IIT Bombay), and Anupam Pedarla (IIT Kharagpur)
+
+Headquarters: Hyderabad, Telangana, India
+
+📘 Overview
+NxtWave is one of India's fastest-growing ed-tech startups, aiming to revolutionize the 21st-century job market by transforming youth into highly skilled tech professionals, regardless of their educational background. Their flagship offering, the Continuous Capacity Building Program 4.0 (CCBP 4.0), focuses on emerging technologies like AI/ML, Cybersecurity, IoT, VR/AR, and Blockchain. 
+
+💰 Funding & Recognition
+In February 2023, NxtWave raised ₹275 crore (approximately $33 million) in a funding round led by Greater Pacific Capital.
+
+Recognized as a Technology Pioneer 2024 by the World Economic Forum.
+
+Awarded Best Tech Skilling EdTech Company by Times Business Awards in 2022. 
+
+🌐 Reach & Impact
+Paid subscribers from over 647 districts across India.
+
+In just 2.5 years, CCBP 4.0 learners have been hired by over 2,000 companies, including Google, Amazon, Nvidia, Goldman Sachs, Oracle, and Deloitte. 
+
+2. 🏢 NIAT (NxtWave Institute of Advanced Technologies)
+Website: niatindia.com
+
+Founded: 2023
+
+Founders: Rahul Attuluri (Ex-Amazon, IIIT Hyderabad), Sashank Gujjula, and Anupam Pedarla
+
+Headquarters: Hyderabad, Telangana, India
+niatindia.com
+
+📘 Overview
+NIAT is a next-generation engineering institute offering a 4-year B.Tech program in Computer Science with specializations in Artificial Intelligence (AI), Machine Learning (ML), and Data Science. The curriculum is industry-aligned, developed with feedback from over 3,000 companies, and updated every semester to meet evolving industry needs. 
+College Dost
+
+🎓 Curriculum Highlights
+Foundation Courses: Programming, Front-End UI/UX Development, Computer Systems, Relational Databases, Mathematics for Computer Science, Data Structures, Backend Development, DevOps, Advanced Algorithms, Product Management, and Applied Computer Science (Capstone Project). 
+niatindia.com
+
+Specializations:
+
+Data Science: Data Visualization and Analysis using PowerBI/Tableau, Python Libraries, Probability & Applied Statistics, Data Science Fundamentals, Product Analytics, Capstone Project.
+
+Machine Learning: Math for Machine Learning, Neural Networks, Computer Vision, Natural Language Processing, Machine Learning Ops, Capstone Project.
+
+Capstone Projects: Students engage in real-world projects, building applications like WhatsApp, Amazon, YouTube, and Netflix clones, and participate in challenges such as the 7-hour website building challenge. 
+
+💰 Funding & Recognition
+Funding: As of now, there is no publicly disclosed funding information for NIAT.
+
+Recognition:
+
+Founders Anupam Pedarla and Sashank Gujjula were featured in the 2024 Forbes India 30 Under 30 list.
+
+NxtWave, the parent company, was awarded the 'Best Tech Skilling EdTech Company' by Times Business Awards in 2022. 
+
+
+🌐 Reach & Impact
+
+Campuses: NIAT has established campuses in multiple locations across India, including Hyderabad, Mangalore, Kolhapur, Bangalore, and Villupuram. 
+
+
+Placement Opportunities: NIAT offers placement support through a growing pool of over 3,000 companies, including tech giants like Google, Amazon, Nvidia, Goldman Sachs, Oracle, and Deloitte. 
+niatindia.com
+
+Mentorship: Students receive guidance from world-class mentors from leading companies such as Microsoft, Google, Amazon, and top IITs, along with masterclasses led by CEOs and CXOs to enhance conceptual understanding and cognitive skills
+
+🧾 Complete Summary
+Rahul Attuluri is the Co-Founder and CEO of NxtWave, one of India’s fastest-growing ed-tech startups, founded in 2020. Backed by a strong technical foundation from IIIT Hyderabad and prior experience at Amazon, Rahul has been instrumental in building platforms that bridge the gap between conventional education and real-world industry demands.
+
+At NxtWave, he leads the development of the CCBP 4.0 (Continuous Capacity Building Program)—a comprehensive skilling program focused on equipping learners across India with expertise in emerging technologies such as Artificial Intelligence, Machine Learning, Cybersecurity, IoT, AR/VR, and Blockchain. Under his leadership, the platform has reached students in 647+ districts and partnered with over 2,000 companies for placements, including tech giants like Google, Amazon, and Deloitte.
+
+Rahul is also a key leader behind NIAT (NxtWave Institute of Advanced Technologies), established in 2023. NIAT offers a 4-year B.Tech program in Computer Science with cutting-edge specializations in AI, ML, and Data Science. The curriculum is co-designed with feedback from over 3,000 companies, and emphasizes hands-on, project-based learning to make students industry-ready from day one. NIAT campuses are operational in multiple cities across India, including Hyderabad, Bangalore, Mangalore, and Kolhapur.
+
+Through these ventures, Rahul Attuluri is on a mission to empower India’s youth with future-ready tech skills, making high-quality tech education accessible, inclusive, and aligned with industry expectations.
